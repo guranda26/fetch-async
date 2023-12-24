@@ -1,0 +1,22 @@
+section {
+  display: flex;
+  flex-direction: column;
+  width: 40rem;
+  background-color: antiquewhite;
+  height: 500px;
+  gap: 20px;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 100px;
+  border-radius: 5px;
+}
+img {
+  border-radius: 20px;
+}
+h1 {
+  padding: 15px;
+  padding-top: 50px;
+  text-align: center;
+  font-size: 30px;
+  color: brown;
+}
